@@ -13,7 +13,7 @@
     "url": "git://github.com/regadou/node-cgi.git"
   },
   "engines": {
-    "node": ">= 0.8.6 && < 0.9.0"
+    "node": ">= 0.8.6"
   },
   "licenses": [
     {
